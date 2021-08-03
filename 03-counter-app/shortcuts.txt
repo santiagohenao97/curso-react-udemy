@@ -1,0 +1,2 @@
+imr = import react from 'react'
+rafcp = componente funcional con proptypes
